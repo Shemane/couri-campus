@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcowrie_campus=globalThis.webpackChunkcowrie_campus||[]).push([[1757],{8955:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/couri-campus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

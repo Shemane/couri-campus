@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcowrie_campus=globalThis.webpackChunkcowrie_campus||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/couri-campus/blog","blogTitle":"Blog","authorsListPath":"/couri-campus/blog/authors"}')}}]);
